@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fb9f44026c6cb46d985f0e74b3ac73fe
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289193
+  packageName: UFO Battleship
+  packageVersion: 1.0.0
+  assetPath: Assets/FlexUnit/UFO_Battleship/Built-In/Prefabs/UFO_Color3.prefab
+  uploadId: 674501

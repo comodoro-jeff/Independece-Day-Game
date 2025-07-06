@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6334510b0d8ad4b4e8b5f6dd75dcfa80
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289193
+  packageName: UFO Battleship
+  packageVersion: 1.0.0
+  assetPath: Assets/FlexUnit/UFO_Battleship/Built-In/Materials/Color3.mat
+  uploadId: 674501

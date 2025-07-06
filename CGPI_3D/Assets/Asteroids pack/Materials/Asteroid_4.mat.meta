@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f7244c98095f64982b9ac3654f88d268
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142164
+  packageName: Asteroids pack
+  packageVersion: 1.0
+  assetPath: Assets/Asteroids pack/Materials/Asteroid_4.mat
+  uploadId: 300446

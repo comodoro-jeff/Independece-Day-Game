@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 52af952fca3d942c68b6f6533723445c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289193
+  packageName: UFO Battleship
+  packageVersion: 1.0.0
+  assetPath: Assets/FlexUnit/UFO_Battleship/HDRP/Materials/Color2.mat
+  uploadId: 674501

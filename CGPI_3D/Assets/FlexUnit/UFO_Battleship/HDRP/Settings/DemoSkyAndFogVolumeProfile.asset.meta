@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c903e6ce1bec34693aa57d37988cf7e5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289193
+  packageName: UFO Battleship
+  packageVersion: 1.0.0
+  assetPath: Assets/FlexUnit/UFO_Battleship/HDRP/Settings/DemoSkyAndFogVolumeProfile.asset
+  uploadId: 674501

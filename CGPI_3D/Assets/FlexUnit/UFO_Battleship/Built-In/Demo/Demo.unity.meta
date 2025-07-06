@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fd6840473d6104b9298429e74476c396
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289193
+  packageName: UFO Battleship
+  packageVersion: 1.0.0
+  assetPath: Assets/FlexUnit/UFO_Battleship/Built-In/Demo/Demo.unity
+  uploadId: 674501

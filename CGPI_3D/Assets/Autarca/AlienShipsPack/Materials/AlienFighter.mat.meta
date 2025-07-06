@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1a28d63c1672b9847915a31e7e342324
+timeCreated: 1539894801
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131137
+  packageName: Alien Ships Pack
+  packageVersion: 1.0
+  assetPath: Assets/Autarca/AlienShipsPack/Materials/AlienFighter.mat
+  uploadId: 273678

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd5e28770aefa44b69ac272435d9f82b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289193
+  packageName: UFO Battleship
+  packageVersion: 1.0.0
+  assetPath: Assets/FlexUnit/UFO_Battleship/HDRP/Materials/Glass.mat
+  uploadId: 674501

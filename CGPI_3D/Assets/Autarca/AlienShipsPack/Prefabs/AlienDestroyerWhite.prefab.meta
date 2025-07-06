@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9288bdcd172a05947ba0eb1fde7f0346
+timeCreated: 1537391766
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131137
+  packageName: Alien Ships Pack
+  packageVersion: 1.0
+  assetPath: Assets/Autarca/AlienShipsPack/Prefabs/AlienDestroyerWhite.prefab
+  uploadId: 273678

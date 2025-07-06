@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bc3d169a8ef803d4abf078bc075e99e4
+timeCreated: 1539894801
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131137
+  packageName: Alien Ships Pack
+  packageVersion: 1.0
+  assetPath: Assets/Autarca/AlienShipsPack/Materials/AlienFighterGreen.mat
+  uploadId: 273678

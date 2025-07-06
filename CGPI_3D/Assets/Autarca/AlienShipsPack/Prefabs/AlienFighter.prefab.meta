@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6d18ca3ac0d2ecd4aa99a8099af486bb
+timeCreated: 1539895347
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131137
+  packageName: Alien Ships Pack
+  packageVersion: 1.0
+  assetPath: Assets/Autarca/AlienShipsPack/Prefabs/AlienFighter.prefab
+  uploadId: 273678

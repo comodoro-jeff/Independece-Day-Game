@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2f33c33d23a2dae4fa8c0f5a56d4f03b
+timeCreated: 1537334988
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131137
+  packageName: Alien Ships Pack
+  packageVersion: 1.0
+  assetPath: Assets/Autarca/AlienShipsPack/Materials/BioTorpedoGreen.mat
+  uploadId: 273678

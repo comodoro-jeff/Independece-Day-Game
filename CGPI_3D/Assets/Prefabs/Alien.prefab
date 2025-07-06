@@ -150,7 +150,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   prefabTiroInimigo: {fileID: 5913661278997116426, guid: 1cac09d6753fec4eb954c379fb6b8168, type: 3}
-  tempoMinimoEntreTiros: 2
-  tempoMaximoEntreTiros: 5
+  tempoMinimoEntreTiros: 5
+  tempoMaximoEntreTiros: 25
   prefabExplosao: {fileID: 8172120240609566679, guid: 176cac53a32a2eb81805045c80913e14, type: 3}
+  vidaAlien: 1
   velocidadeRotacao: 50
