@@ -14,9 +14,6 @@ public class AlienBossController : MonoBehaviour
     private float proximoTiroTempo; // Contador para controlar o cooldown do disparo do chefe.
     private float movimentoSenoidalTimer = 0f; // Timer usado para controlar o padrão de movimento senoidal do chefe.
 
-    // === Nova variável para Rotação do Boss ===
-    public float velocidadeRotacaoBoss = 30.0f; // Define a velocidade em graus por segundo com que o chefe rotaciona em seu próprio eixo.
-
     // Evento estático para notificar outros scripts (como a UI) sobre mudanças na vida do chefe.
     public static event System.Action<int, int> OnBossHealthChanged;
 
@@ -36,10 +33,6 @@ public class AlienBossController : MonoBehaviour
         float newX = Mathf.Sin(movimentoSenoidalTimer * velocidadeMovimentoBoss) * 7.0f; 
         // Calcula a nova posição Z do chefe, também usando uma função seno para uma leve oscilação em profundidade.
         float newZ = 12.0f + Mathf.Sin(movimentoSenoidalTimer * velocidadeMovimentoBoss * 0.5f) * 2.0f; 
-        
-        // === Lógica de Rotação Constante do Boss ===
-        // Rotaciona o chefe em torno do seu eixo Y (vertical) com a velocidade definida.
-        transform.Rotate(Vector3.up, velocidadeRotacaoBoss * Time.deltaTime);
 
         // Aplica a nova posição calculada ao Transform do GameObject do chefe, mantendo sua altura (Y) atual.
         transform.position = new Vector3(newX, transform.position.y, newZ);
@@ -84,7 +77,7 @@ public class AlienBossController : MonoBehaviour
         if (prefabTiroInimigo != null)
         {
             // Calcula a posição de spawn do tiro (ligeiramente abaixo e à frente do chefe).
-            Vector3 spawnPosition = transform.position + new Vector3(0, -0.5f, -2.0f); 
+            Vector3 spawnPosition = transform.position + new Vector3(0, -2.0f, -2.0f); 
             // Instancia o prefab do tiro inimigo na posição calculada e sem rotação inicial.
             Instantiate(prefabTiroInimigo, spawnPosition, Quaternion.identity); 
         }

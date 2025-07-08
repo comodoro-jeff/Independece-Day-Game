@@ -151,7 +151,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   vidaMaxima: 33
   prefabTiroInimigo: {fileID: 5913661278997116426, guid: 1cac09d6753fec4eb954c379fb6b8168, type: 3}
-  tempoEntreTirosBoss: 1
+  tempoEntreTirosBoss: 10
   velocidadeMovimentoBoss: 5
-  prefabExplosao: {fileID: 8172120240609566679, guid: 176cac53a32a2eb81805045c80913e14, type: 3}
   velocidadeRotacaoBoss: 30
