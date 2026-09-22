@@ -2,7 +2,7 @@
 
 Prova de conceito desenvolvida para a disciplina de Computação Gráfica e Processamento de Imagem com o objetivo de explorar a criação de jogos 3D e a integração de sistemas em um motor gráfico.
 
-## Sobre o projeto
+## Sobre o Projeto
 
 O projeto consiste no desenvolvimento de uma prova de conceito de um jogo 3D na Unity, no qual o jogador controla uma nave espacial com o objetivo de desviar de asteroides e derrotar naves alienígenas inimigas.
 
