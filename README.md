@@ -1,6 +1,6 @@
 # Independence Day Game — Desenvolvimento de Jogo 3D na Unity
 
-Prova de conceito desenvolvida para a disciplina de Computação Gráfica e Processamento de Sinais com o objetivo de explorar a criação de jogos 3D e a integração de sistemas em um motor gráfico.
+Prova de conceito desenvolvida para a disciplina de Computação Gráfica e Processamento de Imagem com o objetivo de explorar a criação de jogos 3D e a integração de sistemas em um motor gráfico.
 
 ## Sobre o projeto
 
