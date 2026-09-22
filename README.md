@@ -6,7 +6,7 @@ Prova de conceito desenvolvida para a disciplina de Computação Gráfica e Proc
 
 O projeto consiste no desenvolvimento de uma prova de conceito de um jogo 3D na Unity, no qual o jogador controla uma nave espacial com o objetivo de desviar de asteroides e derrotar naves alienígenas inimigas.
 
-A ideia surgiu da necessidade de aplicar na prática conceitos teóricos de computação gráfica, matrizes de transformação, iluminação, sistemas de física e processamento de sinais em um ambiente tridimensional dinâmico.
+A ideia surgiu da necessidade de aplicar na prática conceitos teóricos de computação gráfica, matrizes de transformação, iluminação, sistemas de física e processamento de imagem em um ambiente tridimensional dinâmico.
 
 O projeto foi desenvolvido academicamente como uma primeira experiência prática com motores gráficos e desenvolvimento de jogos em equipe.
 
